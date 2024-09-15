@@ -1,0 +1,11 @@
+# This script accepts the user\'s name and print the >
+
+# This will prompt user to enter their name.
+echo -n "Enter your name :"
+
+# User to enter a name, and save the entered name int>read name
+
+# Print the welcome message followed by the name.
+echo -n "Welcome $name!"
+
+echo -e " This project is complete."
